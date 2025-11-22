@@ -1,3 +1,6 @@
+console.log("from github")
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const pages = document.querySelectorAll('.page');
     const prevBtn = document.getElementById('prev-btn');
@@ -60,4 +63,5 @@ document.addEventListener('DOMContentLoaded', () => {
             prevPage();
         }
     });
+
 });
