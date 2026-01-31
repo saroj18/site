@@ -17,6 +17,7 @@ body {
     min-height: 100vh;
     margin: 0;
     overflow: hidden; 
+    color:red;
 }
 
 /* New: Styling for the "Food Menu" Title */
@@ -149,4 +150,5 @@ body {
         left: auto;
     }
     /* --- END KEY CHANGES --- */
+
 }
